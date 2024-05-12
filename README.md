@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm I'm Mohammed Ahmed AKA "Tem Revil"</h1>
-<h3 align="center">A Front-End Enthusiast On A Mission To Create Awesome Digital Experiences! Embracing My 19 Years Of Existence, I Embark On A Thrilling Journey Of Learning And Growth, Armed With A Treasure Trove Of Experience That Belies My Age. Experience Isn't Just A Word For Me It's My Compass, Guiding My Code And My Outlook On Life. With Every Project, I Aim To Break Limits And Exceed Expectations. Curious To Delve Deeper Into My World? Feel Free To Explore Further Or Check Out My Gallery. My Plans Is To Continue Learn To Innovation Ignites Like A Flame!</h3>
+<h3 align="center">A Front-End Enthusiast On A Mission To Create Awesome Digital Experiences! Embracing My 19 Years Of Existence, I Embark On A Thrilling Journey Of Learning And Growth, Armed With A Treasure Trove Of Experience That Belies My Age. Experience Isn't Just A Word For Me It's My Compass, Guiding My Code And My Outlook On Life. With Every Project, I Aim To Break Limits And Exceed Expectations. Curious To Delve Deeper Into My World? Feel Free To Explore Further Or Check Out My <a href"temrevil.github.io/revil/Index.html">Gallery.</a> My Plans Is To Continue Learn To Innovation Ignites Like A Flame!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temrevil&label=Profile%20views&color=0e75b6&style=flat" alt="temrevil" /> </p>
 
@@ -20,7 +20,7 @@
 - 🔥 if you want me to hire or if you need my help just send a message to **temrevil@gmail.com**
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temrevil&show_icons=true&locale=en&layout=compact" alt="temrevil" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=temrevil&show_icons=true&locale=en&layout=compact" alt="temrevil" style="width: 420px" />
 </p>
 
 <p>
