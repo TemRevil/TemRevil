@@ -48,7 +48,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/FjBnClwCFoity/giphy.gif?cid=790b76119wl34hifhcl3rfu8pq7af9pkk3v25r0nyltq77qt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="" src="https://media.giphy.com/media/FjBnClwCFoity/giphy.gif?cid=790b76119wl34hifhcl3rfu8pq7af9pkk3v25r0nyltq77qt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
