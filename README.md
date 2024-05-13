@@ -1,50 +1,67 @@
-<h1 align="center">Hi 👋, I'm I'm Mohammed Ahmed AKA "Tem Revil"</h1>
-<h3 align="center">A Front-End Enthusiast On A Mission To Create Awesome Digital Experiences! Embracing My 19 Years Of Existence, I Embark On A Thrilling Journey Of Learning And Growth, Armed With A Treasure Trove Of Experience That Belies My Age. Experience Isn't Just A Word For Me It's My Compass, Guiding My Code And My Outlook On Life. With Every Project, I Aim To Break Limits And Exceed Expectations. Curious To Delve Deeper Into My World? Feel Free To Explore Further Or Check Out My <a href"temrevil.github.io/revil/Index.html">Gallery.</a> My Plans Is To Continue Learn To Innovation Ignites Like A Flame!</h3>
+<h2 align="left">Hi 👋! My name is Mohammed Ahmed ala "Tem Revil" and I'm a Front-End Dev</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=temrevil&label=Profile%20views&color=0e75b6&style=flat" alt="temrevil" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temrevil" alt="temrevil" /></a> </p>
+<br clear="both">
 
-- 🔭 I’m currently working on [Revil](https://temrevil.github.io/revil/Index.html)
+<h3 align="left">A Front-End Enthusiast On A Mission To Create Awesome Digital Experiences! Embracing My 19 Years Of Existence, I Embark On A Thrilling Journey Of Learning And Growth, Armed With A Treasure Trove Of Experience That Belies My Age. Experience Isn't Just A Word For Me It's My Compass, Guiding My Code And My Outlook On Life. With Every Project, I Aim To Break Limits And Exceed Expectations. Curious To Delve Deeper Into My World? Feel Free To Explore Further Or Check Out My Gallery. My Plans Is To Continue Learn To Innovation Ignites Like A Flame!</h3>
 
-- 🌱 I’m currently learning **Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.**
+###
 
-- 👯 I’m looking to collaborate on [Nook (Back-End Section)](https://temrevil.github.io/Nook/Index.html)
+<br clear="both">
 
-- 👨‍💻 All of my projects are available at [https://temrevil.github.io/revil/Index.html](https://temrevil.github.io/revil/Index.html)
+<p align="left">- 👨‍💻 All of my projects are available at https://temrevil.github.io/revil/Index.html<br>- 🛣️ My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.<br>- 👯 I’m looking to collaborate on Nook (Back-End Section)<br>- 📫 How to reach me temrevil@gmail.com<br>- #️⃣ Or You Can Call Me At +201001308280</p>
 
-- 📫 How to reach me **temrevil@gmail.com**
+###
 
-- #️⃣ You Can Call Me At [+201001308280](+201001308280)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=temrevil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&custom_title=Revil's%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=temrevil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&custom_title=Most%20Used%20Langs" height="" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=temrevil&locale=en&mode=daily&theme=react&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
+</div>
 
-- 🔥 if you want me to hire or if you need my help just send a message to **temrevil@gmail.com**
+###
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=temrevil&show_icons=true&locale=en&layout=compact" alt="temrevil" style="width: 420px" />
-</p>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temrevil&show_icons=true&locale=en" alt="temrevil" />
-</p>
+###
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temrevil&" alt="temrevil" />
-</p>
+<img align="left" height="150" src="https://media.giphy.com/media/FjBnClwCFoity/giphy.gif?cid=790b76119wl34hifhcl3rfu8pq7af9pkk3v25r0nyltq77qt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/temrevil" target="blank">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="30" width="40"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path                fill="#1877f2" d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2                57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"/></svg>
-  </a>
-  <a href="https://instagram.com/temrevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="temrevil" height="30" width="40" /></a>
-  <a href="https://twitter.com/temrevll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="temrevll" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"        width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/temrevil/temrevil/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/temrevil/count.svg?"  />
+</div>
+
+###
