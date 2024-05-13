@@ -10,13 +10,23 @@
 
 <br clear="both">
 
-<p align="left">- 👨‍💻 All of my projects are available at https://temrevil.github.io/revil/Index.html<br>- 🛣️ My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.<br>- 👯 I’m looking to collaborate on Nook (Back-End Section)<br>- 📫 How to reach me temrevil@gmail.com<br>- #️⃣ Or You Can Call Me At +201001308280</p>
+<p align="left">
+    - 👨‍💻 All of my projects are available at <a href="https://temrevil.github.io/revil/Index.html">Revil</a>
+    <br>
+    - 🛣️ My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.
+    <br>
+    - 👯 I’m looking to collaborate on Nook (Back-End Section)
+    <br>
+    - 📫 How to reach me temrevil@gmail.com
+    <br>
+    - #️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a>
+</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=temrevil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&custom_title=Revil's%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=temrevil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&custom_title=Most%20Used%20Langs" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=temrevil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&custom_title=Most%20Used%20Langs" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=temrevil&locale=en&mode=daily&theme=react&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
 </div>
 
@@ -43,11 +53,18 @@
 ###
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.facebook.com/temrevil">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/temrevil">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitter.com/temrevll">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://wa.me/+201001308280">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
