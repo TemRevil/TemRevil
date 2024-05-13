@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">
+<h4 align="left">
     - 👨‍💻 All of my projects are available at <a href="https://temrevil.github.io/revil/Index.html">Revil</a>
     <br>
     - 🛣️ My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.
@@ -20,7 +20,7 @@
     - 📫 How to reach me temrevil@gmail.com
     <br>
     - #️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a>
-</p>
+</h4>
 
 ###
 
@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/temrevil/temrevil/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/temrevil/temrevil/output/snake.svg" alt="Snake animation" />
 
 ###
 
