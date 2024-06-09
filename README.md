@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammed Ahmed ala "Tem Revil" and I'm a Front-End Dev</h2>
+<h2 align="left">Hi 👋! My name is Mohammed Ahmed aka "Tem Revil" and I'm a Front-End Dev</h2>
 
 ###
 
