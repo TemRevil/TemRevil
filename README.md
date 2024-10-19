@@ -10,24 +10,28 @@
 
 <br clear="both">
 
-<h4 align="left">
-    - 👨‍💻 All of my projects are available at <a href="https://temrevil.github.io/revil/Index.html">Revil</a>
-    <br>
-    - 🛣️ My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.
-    <br>
-    - 👯 I’m looking to collaborate on Nook (Back-End Section)
-    <br>
-    <table>
-      <tr>
-        <td>- <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /></td>
-        <td>How to reach me temrevil@gmail.com</td>
-      </tr>
-      <tr>
-        <td>- <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp Icon" width="30" height="30" /></td>
-        <td>#️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a></td>
-      </tr>
-    </table>
-</h4>
+<table>
+  <tr>
+    <td>- 👨‍💻</td>
+    <td>All of my projects are available at <a href="https://temrevil.github.io/revil/Index.html">Revil</a></td>
+  </tr>
+  <tr>
+    <td>- 🛣️</td>
+    <td>My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.</td>
+  </tr>
+  <tr>
+    <td>- 👯</td>
+    <td>I’m looking to collaborate on Nook (Back-End Section)</td>
+  </tr>
+  <tr>
+    <td>- <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /></td>
+    <td>How to reach me temrevil@gmail.com</td>
+  </tr>
+  <tr>
+    <td>- <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp Icon" width="30" height="30" /></td>
+    <td>#️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a></td>
+  </tr>
+</table>
 
 ###
 
