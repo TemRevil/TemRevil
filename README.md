@@ -17,7 +17,7 @@
     <br>
     - 👯 I’m looking to collaborate on Nook (Back-End Section)
     <br>
-    - [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) How to reach me temrevil@gmail.com
+    - ![Gmail](https://skillicons.dev/icons?i=gmail) How to reach me temrevil@gmail.com
     <br>
     - #️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a>
 </h4>
@@ -34,11 +34,11 @@
 
 <div align="left">
     <h3>Langs</h3>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+    ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
     <h3>Following</h3>
-  [![My Skills](https://skillicons.dev/icons?i=gcp,github,py,codepen,figma,electron,powershell,unity,unreal,visualstudio,vscode)](https://skillicons.dev)
+    ![GCP](https://skillicons.dev/icons?i=gcp) ![GitHub](https://skillicons.dev/icons?i=github) ![Python](https://skillicons.dev/icons?i=py) ![CodePen](https://skillicons.dev/icons?i=codepen) ![Figma](https://skillicons.dev/icons?i=figma) ![Electron](https://skillicons.dev/icons?i=electron) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VSCode](https://skillicons.dev/icons?i=vscode)
     <h3>Using</h3>
-  [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+    ![Windows](https://skillicons.dev/icons?i=windows)
 </div>
 
 ###
