@@ -17,7 +17,10 @@
     <br>
     - 👯 I’m looking to collaborate on Nook (Back-End Section)
     <br>
-    - <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /> How to reach me temrevil@gmail.com
+    <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+      - <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" />
+      <span style="margin-left: 10px;">How to reach me temrevil@gmail.com</span>
+    </div>
     <br>
     - #️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a>
 </h4>
