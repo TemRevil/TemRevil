@@ -12,27 +12,26 @@
 
 <table>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="30" height="30" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="30" height="30" /></td>
     <td>All of my projects are available at <a href="https://temrevil.github.io/revil/Index.html">Revil</a></td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Icon" width="30" height="30" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Icon" width="30" height="30" /></td>
     <td>My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.</td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" width="30" height="30" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" width="30" height="30" /></td>
     <td>I’m looking to collaborate on Nook (Back-End Section)</td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /></td>
+    <td><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /></td>
     <td>How to reach me <a href="mailto:temrevil@gmail.com">temrevil@gmail.com</a></td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp Icon" width="30" height="30" /></td>
+    <td>![image](https://github.com/user-attachments/assets/71ac0c10-ce53-4aa0-b234-ea70427132cf)</td>
     <td>#️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a></td>
   </tr>
 </table>
-
 
 ###
 
