@@ -22,9 +22,11 @@
         <td>- <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /></td>
         <td>How to reach me temrevil@gmail.com</td>
       </tr>
+      <tr>
+        <td>- <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp Icon" width="30" height="30" /></td>
+        <td>#️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a></td>
+      </tr>
     </table>
-    <br>
-    - #️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a>
 </h4>
 
 ###
