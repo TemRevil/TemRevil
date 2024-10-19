@@ -28,7 +28,7 @@
     <td>How to reach me <a href="mailto:temrevil@gmail.com">temrevil@gmail.com</a></td>
   </tr>
   <tr>
-    <td>![image](https://github.com/user-attachments/assets/71ac0c10-ce53-4aa0-b234-ea70427132cf)</td>
+    <td><img src="(https://github.com/user-attachments/assets/71ac0c10-ce53-4aa0-b234-ea70427132cf)" alt="Whatsapp Icon" width="30" height="30" /></td>
     <td>#️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a></td>
   </tr>
 </table>
