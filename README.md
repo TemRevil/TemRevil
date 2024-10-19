@@ -17,7 +17,7 @@
     <br>
     - 👯 I’m looking to collaborate on Nook (Back-End Section)
     <br>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 100px;">
       - <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" />
       <span style="margin-left: 10px;">How to reach me temrevil@gmail.com</span>
     </div>
