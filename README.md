@@ -12,15 +12,15 @@
 
 <table>
   <tr>
-    <td>- 👨‍💻</td>
+    <td>- <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="30" height="30" /></td>
     <td>All of my projects are available at <a href="https://temrevil.github.io/revil/Index.html">Revil</a></td>
   </tr>
   <tr>
-    <td>- 🛣️</td>
+    <td>- <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Icon" width="30" height="30" /></td>
     <td>My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.</td>
   </tr>
   <tr>
-    <td>- 👯</td>
+    <td>- <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" width="30" height="30" /></td>
     <td>I’m looking to collaborate on Nook (Back-End Section)</td>
   </tr>
   <tr>
