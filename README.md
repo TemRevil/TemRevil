@@ -17,7 +17,7 @@
     <br>
     - 👯 I’m looking to collaborate on Nook (Back-End Section)
     <br>
-    - 📫 How to reach me temrevil@gmail.com
+    - [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) How to reach me temrevil@gmail.com
     <br>
     - #️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a>
 </h4>
@@ -33,17 +33,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+    <h3>Langs</h3>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+    <h3>Following</h3>
+  [![My Skills](https://skillicons.dev/icons?i=gcp,github,py,codepen,figma,electron,powershell,unity,unreal,visualstudio,vscode)](https://skillicons.dev)
+    <h3>Using</h3>
+  [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 </div>
 
 ###
