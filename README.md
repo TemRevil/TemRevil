@@ -34,7 +34,7 @@
 
 <div align="left">
     <h3>Langs</h3>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
     <h3>Following</h3>
   [![My Skills](https://skillicons.dev/icons?i=gcp,github,py,codepen,figma,electron,powershell,unity,unreal,visualstudio,vscode)](https://skillicons.dev)
     <h3>Using</h3>
