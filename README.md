@@ -17,7 +17,7 @@
     <br>
     - 👯 I’m looking to collaborate on Nook (Back-End Section)
     <br>
-    - ![Gmail](https://skillicons.dev/icons?i=gmail) How to reach me temrevil@gmail.com
+    - <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /> How to reach me temrevil@gmail.com
     <br>
     - #️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a>
 </h4>
@@ -34,11 +34,23 @@
 
 <div align="left">
     <h3>Langs</h3>
-    ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" width="40" height="40" />
     <h3>Following</h3>
-    ![GCP](https://skillicons.dev/icons?i=gcp) ![GitHub](https://skillicons.dev/icons?i=github) ![Python](https://skillicons.dev/icons?i=py) ![CodePen](https://skillicons.dev/icons?i=codepen) ![Figma](https://skillicons.dev/icons?i=figma) ![Electron](https://skillicons.dev/icons?i=electron) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VSCode](https://skillicons.dev/icons?i=vscode)
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=electron" alt="Electron Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio Icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode Icon" width="40" height="40" />
     <h3>Using</h3>
-    ![Windows](https://skillicons.dev/icons?i=windows)
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows Icon" width="40" height="40" />
 </div>
 
 ###
