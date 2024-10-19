@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="left">A Front-End Enthusiast On A Mission To Create Awesome Digital Experiences! Embracing My 19 Years Of Existence, I Embark On A Thrilling Journey Of Learning And Growth, Armed With A Treasure Trove Of Experience That Belies My Age. Experience Isn't Just A Word For Me It's My Compass, Guiding My Code And My Outlook On Life. With Every Project, I Aim To Break Limits And Exceed Expectations. Curious To Delve Deeper Into My World? Feel Free To Explore Further Or Check Out My Gallery. My Plans Is To Continue Learn To Innovation Ignites Like A Flame!</h3>
+<h3 align="left">A Front-End Enthusiast On A Mission To Create Awesome Digital Experiences! Embracing My 19 Years Of Existence, I Embark On A Thrilling Journey Of Learning And Growth, Armed With A Treasure Trove Of Experience That Belies My Age. Experience Isn't Just A Word For Me It's My Compass, Guiding My Code And My Outlook On Life. With Every Project, I Aim To Break Limits And Exceed Expectations. Curious To Delve Deeper Into My Wrld? Feel Free To Explore Further Or Check Out My Gallery. My Plans Is To Continue Learn To Innovation Ignites Like A Flame!</h3>
 
 ###
 
@@ -12,26 +12,27 @@
 
 <table>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="30" height="30" /></td>
+    <td>- 👨‍💻</td>
     <td>All of my projects are available at <a href="https://temrevil.github.io/revil/Index.html">Revil</a></td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Icon" width="30" height="30" /></td>
+    <td>- 🚀</td>
     <td>My Road is to learn Front-End JavaScript, Moving To The Back-End and All The Way To Unity Engine.</td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" width="30" height="30" /></td>
+    <td>- 🤝</td>
     <td>I’m looking to collaborate on Nook (Back-End Section)</td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /></td>
+    <td>- 📧</td>
     <td>How to reach me <a href="mailto:temrevil@gmail.com">temrevil@gmail.com</a></td>
   </tr>
   <tr>
-    <td>- <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp Icon" width="30" height="30" /></td>
+    <td>- 📞</td>
     <td>#️⃣ Or You Can Call Me At <a href="https://wa.me/+201001308280">+201001308280</a></td>
   </tr>
 </table>
+
 
 ###
 
