@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>- <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="30" height="30" /></td>
-    <td>How to reach me temrevil@gmail.com</td>
+    <td>How to reach me <a href="mailto:temrevil@gmail.com">temrevil@gmail.com</a></td>
   </tr>
   <tr>
     <td>- <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp Icon" width="30" height="30" /></td>
