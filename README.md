@@ -16,7 +16,7 @@ Path locked in: Front-End → Back-End → Game Engines (Unity / Unreal).
 
 <h3>🧠 Tech Stack</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,github,gcp,figma,python,unity,unreal,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode" />
 </p>
 
 <hr/>
