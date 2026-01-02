@@ -5,7 +5,7 @@ Front-End Dev, 20 y/o.
 I craft clean, responsive UIs, chase bugs until they regret existing,  
 and somehow still enjoy JavaScript (don't ask).
 <br/>
-Focused path: Front-End → Back-End → Game Engines (Unity / Unreal).
+Focused path: Front-End → Back-End → Cloud Servcies (i dunno how).
 </p>
 
 <p>
