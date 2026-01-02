@@ -25,7 +25,7 @@ Focused path: Front-End → Back-End → Cloud Servcies (i dunno how).
 
 <p>
 Currently sharpening my skills in modern front-end architectures,  
-API integrations, and scalable app structures — learning never stops.
+API integrations, and scalable app structures learning never stops.
 </p>
 
 <hr/>
