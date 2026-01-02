@@ -2,14 +2,18 @@
 
 <p>
 Front-End Dev, 20 y/o.  
-I build clean UIs, fight bugs daily, and enjoy JavaScript more than is healthy.  
-Path locked in: Front-End → Back-End → Game Engines (Unity / Unreal).
+I craft clean, responsive UIs, chase bugs until they regret existing,  
+and somehow still enjoy JavaScript (don't ask).
+<br/>
+Focused path: Front-End → Back-End → Game Engines (Unity / Unreal).
 </p>
 
 <p>
-🔥 Projects: https://temrevil.github.io/revil/Index.html  
-🤝 Open to collaborate (Back-End devs who do more than console.log)  
-📩 temrevil@gmail.com | 📱 +201001308
+🔥 Check out my <a href="https://temrevil.github.io/revil/" target="_blank">Portfolio</a>  
+<br/>
+🤝 Open to collaboration with Back-End devs who write real code (not motivational console.logs)  
+<br/>
+📩 <a href="mailto:temrevil@gmail.com">temrevil@gmail.com</a> | 📱 +201001308
 </p>
 
 <hr/>
@@ -17,6 +21,11 @@ Path locked in: Front-End → Back-End → Game Engines (Unity / Unreal).
 <h3>🧠 Tech Stack</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode" />
+</p>
+
+<p>
+Currently sharpening my skills in modern front-end architectures,  
+API integrations, and scalable app structures — learning never stops.
 </p>
 
 <hr/>
