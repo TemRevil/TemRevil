@@ -1,4 +1,4 @@
-<h2>👋 I'm Mohammed Ahmed — Tem Revil</h2>
+<h2>👋 I'm Mohammed Ahmed - Tem Revil</h2>
 
 <p>
 Front-End Dev, 20 y/o.  
