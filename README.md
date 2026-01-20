@@ -9,7 +9,7 @@ Focused path: Front-End → Back-End → Cloud Servcies (i dunno how).
 </p>
 
 <p>
-🔥 Check out my <a href="https://temrevil.github.io/revil/HAVmaz2F" target="_blank">Portfolio</a>  
+🔥 Check out my <a href="https://temrevil.github.io/revil/HAVmaz2F" target="_blank">Portfolio</a>
 <br/>
 🤝 Open to collaboration with Back-End devs who write real code (not motivational console.logs)  
 <br/>
