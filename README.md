@@ -5,7 +5,7 @@ Front-End Dev, 21 y/o.
 I craft clean, responsive UIs, chase bugs until they regret existing,  
 and somehow still enjoy JavaScript (don't ask).
 <br/>
-Focused path: Front-End → Back-End → Cloud Servcies (i dunno how).
+Focused path: Front-End → System Design (current stage) → Cloud Servcies (i dunno how).
 </p>
 
 <p>
