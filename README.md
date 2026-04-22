@@ -20,7 +20,7 @@ Focused path: Front-End → System Design (current stage) → Cloud Servcies (i 
 
 <h3>🧠 Tech Stack</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,github,gcp,firebase,vscode" />
 </p>
 
 <p>
