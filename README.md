@@ -9,7 +9,7 @@ Focused path: Front-End → System Design (current stage) → Cloud Servcies (i 
 </p>
 
 <p>
-🔥 Check out my <a href="https://temrevil.github.io/revil/XIIffNq6" target="_blank">Portfolio</a>
+🔥 Check out my <a href="https://temrevil.com/XIIffNq6" target="_blank">Portfolio</a>
 <br/>
 🤝 Open to collaboration with Back-End devs who write real code (not motivational console.logs)  
 <br/>
