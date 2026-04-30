@@ -5,7 +5,7 @@ Front-End Dev, 21 life circles and so on.
 I craft clean, responsive UIs, chase bugs until they regret existing,  
 and somehow still enjoy JavaScript (don't ask).
 <br/>
-Focused path: Front-End → System Design (current stage) → Cloud Servcies (i dunno how).
+Focused path: Front-End → System Design (current stage) → Cloud Servcies (i don't know how).
 </p>
 
 <p>
