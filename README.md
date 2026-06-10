@@ -1,7 +1,7 @@
 <h2>👋 I'm Mohammed Ahmed → Tem Revil</h2>
 
 <p>
-Front-End Dev, 21 life circles and so on.  
+Front-End Dev & Ai Products Expert, 21 life circles and so on.  
 I craft clean, responsive UIs, chase bugs until they regret existing,  
 and somehow still enjoy JavaScript (don't ask).
 <br/>
