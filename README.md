@@ -46,21 +46,45 @@ Still learning, and honestly that is the fun part.
 
 <h3>Open Source Contributions</h3>
 <p>
-Small, real fixes in projects that people actually use:
+Small, real fixes in projects that people actually use. 15 merged so far and 12 more in review (updated October 2026).
 </p>
+
+<h4>Merged</h4>
 
 | Project | What I fixed |
 |---------|--------------|
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/68672) | Added missing tested requirements to a lab's user stories |
-| [TanStack Router](https://github.com/TanStack/router/pull/7782) | Made validation errors format safely instead of crashing on odd inputs |
 | [Storybook](https://github.com/storybookjs/storybook/pull/35460) | Taught an ESLint rule to recognise the `storybook/test` import |
-| [Plotly.js](https://github.com/plotly/plotly.js/pull/7900) | Fixed number formatting dropping the sign flag (like `+.2f`) |
-| [python-docx](https://github.com/python-openxml/python-docx/pull/1566) | Stopped `add_picture` crashing on unsupported image types |
-| [go-yaml](https://github.com/goccy/go-yaml/pull/891) | Fixed a printer crash when handling YAML aliases |
-| [GitHub Linguist](https://github.com/github-linguist/linguist/pull/8063) | Added support for the Civet language |
+| [rtk](https://github.com/rtk-ai/rtk/pull/2931) | Matched Claude project folders case-insensitively on Windows |
 | [AWS Lambda .NET](https://github.com/aws/aws-lambda-dotnet/pull/2474) | Made the JSON logger honour the category setting |
-| [near-sdk-rs](https://github.com/near/near-sdk-rs/pull/1591) | Fixed outdated documentation links (merged) |
-| [F1 Race Replay](https://github.com/IAmTomShaw/f1-race-replay/pull/312) | Fixed the race leaderboard showing the wrong finishing order |
+| [adidas lakehouse-engine](https://github.com/adidas/lakehouse-engine/pull/18) | Rebased a stalled table tennis sample so it could ship in release 2.2.1 |
+| [liana](https://github.com/scverse/liana/pull/247) | Dropped bad MAML2-NOTCH entries from the consensus resource |
+| [liana](https://github.com/scverse/liana/pull/248) | Raised a clear error when log2FC has no cells to compare against |
+| [ASP.NET Core](https://github.com/dotnet/aspnetcore/pull/68015) | Rejected malformed SNI server names in Kestrel |
+| [Claude Code Action](https://github.com/anthropics/claude-code-action/pull/1526) | Fixed checkout credentials not being removed under `actions/checkout` v6 |
+| [Plotly.js](https://github.com/plotly/plotly.js/pull/7900) | Fixed number formatting dropping the sign flag (like `+.2f`) |
+| [.NET runtime](https://github.com/dotnet/runtime/pull/131358) | Fixed the config binder source generator for a sole read-only collection parameter |
+| [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django/pull/6714) | Stopped setting public-read ACLs on static files in object storage |
+| [BookWyrm](https://github.com/bookwyrm-social/bookwyrm/pull/4027) | Avoided re-running a UNION query as a subquery |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/68672) | Added missing tested requirements to a lab's user stories |
+| [near-sdk-rs](https://github.com/near/near-sdk-rs/pull/1591) | Fixed outdated documentation links |
+| [Datasync](https://github.com/CommunityToolkit/Datasync/pull/544) | Fixed a nullable warning in a sample app |
+
+<h4>In review</h4>
+
+| Project | What I'm fixing |
+|---------|-----------------|
+| [uv](https://github.com/astral-sh/uv/pull/20922) | Searching a workspace member's own indexes during resolution |
+| [Elastic eland](https://github.com/elastic/eland/pull/830) | Classification predictions with non-numeric class labels |
+| [lodash](https://github.com/lodash/lodash/pull/6262) | Keeping sparse array holes in `cloneDeep` |
+| [Claude Code Action](https://github.com/anthropics/claude-code-action/pull/1525) | Keeping the triggering review or comment in the prompt context |
+| [Anthropic skills](https://github.com/anthropics/skills/pull/1453) | Aggregating the flat single-run `grading.json` layout |
+| [Anthropic skills](https://github.com/anthropics/skills/pull/1454) | Documenting two xlsx gotchas |
+| [TanStack Router](https://github.com/TanStack/router/pull/7782) | Formatting validation errors safely instead of crashing on odd inputs |
+| [python-docx](https://github.com/python-openxml/python-docx/pull/1566) | Stopping `add_picture` crashing on unsupported image types |
+| [go-yaml](https://github.com/goccy/go-yaml/pull/891) | Fixing a printer crash when handling YAML aliases |
+| [GitHub Linguist](https://github.com/github-linguist/linguist/pull/8063) | Adding support for the Civet language |
+| [OpenChoreo](https://github.com/openchoreo/community-modules/pull/281) | Stitching multi-line stack traces into one log event |
+| [F1 Race Replay](https://github.com/IAmTomShaw/f1-race-replay/pull/312) | Fixing the leaderboard showing the wrong order after the race ends |
 
 <p>
 More on my <a href="https://github.com/TemRevil?tab=overview" target="_blank">activity tab</a> if you want the full list.
