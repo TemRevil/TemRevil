@@ -5,13 +5,13 @@ Front-End Dev & Ai Products Expert, 21 life circles and so on.
 I craft clean, responsive UIs, chase bugs until they regret existing,  
 and somehow still enjoy JavaScript (don't ask).
 <br/>
-Focused path: Front-End → System Design (current stage) → Cloud Services (i don't know how).
+Life path: Front-End → System Design (current stage and beyond) → Cloud Services (i don't know how).
 </p>
 
 <p>
 🔥 Check out my <a href="https://temrevil.com/XIIffNq6" target="_blank">Portfolio</a>
 <br/>
-🤝 Open to collaboration with Back-End devs who write real code (not motivational console.logs)  
+🤝 Open to collaboration with whatever dev who write real code (not motivational console.logs)  
 <br/>
 📩 <a href="mailto:temrevil@gmail.com">temrevil@gmail.com</a> | 📱 <a href="http://wa.me/+201001308280" target="_blank">WhatsApp me.</a>  
 </p>
